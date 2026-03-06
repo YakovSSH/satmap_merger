@@ -1,0 +1,1 @@
+Use this tool to generate a merged version of Til's satmap and your own. Please note: this is intended for maps currently under construction. If all of your textures are finished, you won't need this tool.
